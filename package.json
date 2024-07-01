@@ -1,0 +1,21 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "description": "nodejs with express course",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon --env-file=.env server.js"
+  },
+  "author": "Favour Idoko",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "6668d456146ae080643604cf" ,
+  "name": "Riddick",
+  "description": "Left for dead on a sun-scorched planet, Riddick finds himself up against an alien race of predators. Activating an emergency beacon alerts two ships one carrying a new bread of mercenary, the other captained by a man from Riddick's past.",
+  "duration": "199" ,
+  "ratings": "6.8" ,
+  "totalRating":  "329" ,
+  "releaseYear":  "2013" ,
+  "releaseDate":  "1378252800000" ,
+  "createdAt":  "1718144845356" ,
+  "directors": ["David Twohy"],
+  "coverImage": "redick-2013.jpg",
+  "actors": ["Vin dessel", "Karl urban", "katee sackorf"],
+  "price":  "50"
+}
